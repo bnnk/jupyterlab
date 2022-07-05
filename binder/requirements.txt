@@ -1,3 +1,4 @@
 jupyter-server-proxy
 matplotlib
 vega-datasets
+mistune>=2.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
